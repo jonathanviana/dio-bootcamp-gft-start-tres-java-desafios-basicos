@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 
 public class DesafioA {
     public static void main(String[] args) throws IOException {
+
         String line;
         Double number;
 
