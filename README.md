@@ -67,8 +67,38 @@ Bruno,
 
 Nota: Retirei o número de instâncias "T" com objetivo de exemplificar de maneira mais didática, além disto não considerei o uso da classe "Scanner".
 
+## [desafios.c]
 
+### Enunciado:
 
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
 
+CODIGO: 1 ESPECIFICAÇÃO: CACHORRO QUENTE PREÇO: R$ 4.00
+
+CODIGO: 2 ESPECIFICAÇÃO: X SALADA PREÇO: R$ 4.50
+
+CODIGO: 3 ESPECIFICAÇÃO: X BACON PREÇO: R$ 5.00
+
+CODIGO: 4 ESPECIFICAÇÃO: TORRADA SIMPLES PREÇO: R$ 2.00
+
+CODIGO: 5 ESPECIFICAÇÃO: REFRIGERANTE PREÇO: R$ 1.50
+
+Entrada:
+
+O arquivo de entrada contém dois valores inteiros correspondentes ao código e à quantidade de um item conforme tabela acima.
+
+Saída:
+
+O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser pago, com 2 casas após o ponto decimal.
+
+Exemplo:
+
+Entrada:
+
+3,2
+
+Saída:
+
+Total: R$ 10.00
 
 
